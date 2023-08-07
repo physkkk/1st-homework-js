@@ -15,4 +15,4 @@ const myage="17";
 //print
 console.log(myname);
 console.log(Myname);
-console.log(myage)
+console.log(myage);
